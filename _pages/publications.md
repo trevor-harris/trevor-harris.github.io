@@ -1,4 +1,9 @@
-# Publications
+---
+layout: archive
+title: "Publications"
+permalink: /pubications/
+author_profile: true
+---
 
 ### Papers and articles
 
