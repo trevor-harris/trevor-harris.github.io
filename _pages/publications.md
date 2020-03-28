@@ -15,15 +15,15 @@ __Harris, T.__ , Li, B. (2019). _Kriging_. Wiley Statsref: Statistics Reference 
 
 
 
-
+<!---
 ### Working papers
-
+<!---
 __Harris, T.__,Li, B., Tucker, J. D. (2020). _Fast Functional Change Point Detection With Randomized Total Variation Denoising_. (Manuscript)
-
+<!---
 __Harris, T.__,Li, B. (2020). _Anomaly localization with Variational Autoencoders for Climate Model Intercomparison_. (Manuscript)
-
+<!---
 __Harris, T.__,Li, B. (2020). _Scaling up Kriging with Bayesian Deep Learning_. (Manuscript)
-
+<!---
 __Harris, T.__, _Fast Bayesian Genome Wide Association Studies with Variational Inference and the Horseshoe Prior_. (Manuscript)
 
 
