@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download](files/CV.pdf)
+[Download](/files/CV.pdf)
