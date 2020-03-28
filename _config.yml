@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Trevor Harris"
-  avatar           : "profile.png"
+  avatar           : "/images/trevorh2_profile.jpg"
   bio              : "4th year Statistics PhD @ UIUC"
   location         : "Urbana, IL"
   employer         :
