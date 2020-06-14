@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Relative anomaly localization in CMIP 5"
+excerpt: "Using VAE's to detect relative anomalous behavior 1<br/><img src='/images/anoVAE/anoVAE.png'>"
 collection: portfolio
 ---
 
