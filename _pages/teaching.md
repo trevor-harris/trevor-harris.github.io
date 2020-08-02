@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-TA for STAT 400 and ACCY 571 at UIUC. 
+Previous TA for STAT 400 and ACCY 571 at UIUC. 
 
 -__STAT 400:__ Statistics and Probability 1
 
