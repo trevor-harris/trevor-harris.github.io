@@ -1,29 +1,16 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Code"
+permalink: /code/
 author_profile: true
 ---
 
-### Papers and articles
+### R packages
 
-__Harris, T.__, Li, B., Steiger, N., Smerdon, J., Tucker, J. D., Narisetty, N. (2020). _Evaluating proxy influence in assimilated paleoclimate reconstructions -- Testing the exchangeability of two ensembles of spatial processes_. Journal of American Statistical Association. [arXiv.](https://arxiv.org/abs/1909.01273)
+__fmci:__ Functional change point detection with the multiple changepoint isolation method [Github](https://github.com/trevor-harris/fmci)
 
-__Harris, T.__, Tucker, J. D., Li, B., Shand, L. (2020). _Elastic Depths for Detecting Shape Anomalies in Functional Data_. Technometrics. [arXiv.](https://arxiv.org/abs/1907.06759).
+__elasticdepth:__ Elastic depths for functional data and identifying shape outliers. [Github](https://github.com/trevor-harris/elasticdepth)
 
-__Harris, T.__ , Li, B. (2019). _Kriging_. Wiley Statsref: Statistics Reference Online. [arXiv.](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118445112.stat03708.pub2).
+__kstat:__ Kolmogorov-Depth statistic for comparing testing if two functional distribution differ. [Github](https://github.com/trevor-harris/kstat)
 
-
-
-
-<!--- ### Working papers --->
-
-<!---__Harris, T.__,Li, B., Tucker, J. D. (2020). _Fast Functional Change Point Detection With Randomized Total Variation Denoising_. (Manuscript) --->
-
-<!---__Harris, T.__,Li, B. (2020). _Anomaly localization with Variational Autoencoders for Climate Model Intercomparison_. (Manuscript) --->
-
-<!---__Harris, T.__,Li, B. (2020). _Scaling up Kriging with Bayesian Deep Learning_. (Manuscript) --->
-
-<!---__Harris, T.__, _Fast Bayesian Genome Wide Association Studies with Variational Inference and the Horseshoe Prior_. (Manuscript) --->
-
-
+__extdepth:__ Extremal Depth for functional data. [Github](https://github.com/trevor-harris/extdepth)
