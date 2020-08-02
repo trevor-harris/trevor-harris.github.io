@@ -9,7 +9,7 @@ author_profile: true
 
 __Harris, T.__, Li, B., J., Tucker, J. D., (2020). _Scalable Multiple Change Point Detection for Functional Data Sequences_. Submitted to Technometrics.
 
-__Harris, T.__, Li, B., Steiger, N., Smerdon, J., Tucker, J. D., Narisetty, N. (2020). _Evaluating proxy influence in assimilated paleoclimate reconstructions -- Testing the exchangeability of two ensembles of spatial processes_. Journal of American Statistical Association. [arXiv.](https://arxiv.org/abs/1909.01273)
+__Harris, T.__, Li, B., Steiger, N., Smerdon, J., Tucker, J. D., Narisetty, N. (2020). _Evaluating proxy influence in assimilated paleoclimate reconstructions -- Testing the exchangeability of two ensembles of spatial processes_. Journal of the American Statistical Association. [arXiv.](https://arxiv.org/abs/1909.01273)
 
 __Harris, T.__, Tucker, J. D., Li, B., Shand, L. (2020). _Elastic Depths for Detecting Shape Anomalies in Functional Data_. Technometrics. [arXiv.](https://arxiv.org/abs/1907.06759).
 
