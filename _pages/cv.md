@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[View](/files/CV.pdf)
+[View](/files/harris-cv.pdf)
 
 <!--- Available on request --->
