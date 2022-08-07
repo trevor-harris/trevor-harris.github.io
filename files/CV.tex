@@ -1,0 +1,402 @@
+\documentclass[11pt]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[scaled]{helvet}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{enumitem}
+
+\usepackage{color}
+\usepackage[normalem]{ulem}
+\usepackage{url}
+
+\DeclareUrlCommand\ULurl{%
+  \renewcommand\UrlFont{\ttfamily\color{blue}}%
+  \renewcommand\UrlLeft{\uline\bgroup}%
+  \renewcommand\UrlRight{\egroup}}
+
+
+% Turn on the style
+\pagestyle{fancy}
+
+% Clear the header and footer
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+
+\fancyfoot{}
+
+% Set the right side of the footer to be the page number
+\fancyfoot[R]{\small Trevor -- \thepage}
+
+
+%%%%%%% Name and such
+\title{\vspace{-0.9in}}
+\author{\LARGE \textbf{Trevor Harris}}
+%\date{\small{\today}}
+
+\begin{document}
+
+%\maketitle
+\thispagestyle{empty}
+
+\begin{center}
+{\LARGE \textbf{Trevor Harris}}
+\end{center}
+
+%%%%%%% Contact
+\subsection*{Contact}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{-0.2cm}
+
+\begin{table}[H]
+\hspace{-3.7mm}
+\begin{tabular}{ll}
+Department of Statistics  &  \hspace{8cm} \href{mailto:tharris@stat.tamu.edu}{\color{blue} {tharris@stat.tamu.edu}} \\
+
+Texas A\&M University   &  \hspace{8cm}  863-255-335  \\
+
+BLOC 415E
+
+%725 S. Wright St.   &  \hspace{0.5cm} 
+%\href{https://github.com/trevor-harris/}{\color{blue} {github.com/trevor-harris/}} \\
+%Champaign, IL 61820   &                                                                    
+\end{tabular}
+\end{table}
+
+
+%%%%%%% Awards
+%\subsection*{2021 Highlights}
+%\vspace{-0.6cm}\noindent\hrulefill
+%\vspace{-0.2cm}
+%
+%\begin{itemize}[leftmargin=*,label={-}]
+%    \setlength\itemsep{-0.2em}
+%    \item Horace W. Norton Prize for outstanding thesis research in Statistics 
+%    \item Invited talks at JSM and WSC.
+%    \item Two papers appeared in print, three more finished (submitted very early 2022).
+%    \item Redeveloped research program around machine learning, started external collaborations. 
+%    \item Excellent teaching evaluations
+%    \item Graduated and started assistant professor position
+%\end{itemize}
+
+%%%%%%% Research Interests
+\subsection*{Research Interests}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.2cm}
+
+\noindent My overarching interests are in developing new statistical methodology for understanding complex scientific data, particularly in Climatology. Recent work focuses on probabilistic machine learning methods, such as Bayesian deep learning, Gaussian processes, and deep generative models, and studying their uncertainty quantification capabilities. I also work on robust functional data analysis methods for anomaly detection, changepoint detection, and spatiotemporal sequence comparisons. 
+
+
+%\noindent Functional data analysis, anomaly detection, Bayesian machine learning, Gaussian processes and kernel methods, paleoclimate and climate change, and environmental epidemiology. Current projects apply probabilistic machine learning models to problems in Climatology and study their predictive performance and uncertainty quantification.
+
+%\noindent Functional data analysis, anomaly detection, spatial statistics, climate change and paleoclimate reconstructions, Bayesian machine learning and scalable inference. Current projects apply deep generative models to climate model output and study their uncertainty quantification capabilities.
+
+
+%%%%%%% Education
+\subsection*{Education}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.2cm}
+
+\noindent \textbf{PhD Statistics} \hfill 2016 -- 2021 \\
+University of Illinois at Urbana-Champaign, Champaign, IL \\
+Advisor: Dr. Bo Li \\
+Thesis: \textit{Functional Data Methods for Climatological Processes}\\
+%Expected completion in May 2021
+%\vspace{0.1cm}
+
+\noindent \textbf{BS Mathematics} \hfill 2010 -- 2014 \\
+University of Florida, Gainesville, FL \\
+Advisors: Dr. Murali Rao and Dr. Farid AitSahlia \\
+Thesis: \textit{Estimating an optimal stopping time policy for American options}
+
+
+%%%%%%% Research
+\subsection*{Research Experience}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.2cm}
+
+\noindent \textbf{Assistant Professor}, Department of Statistics \hfill 2021 -- Present \\
+Texas A\&M University, College Station, TX \\
+
+\noindent \textbf{Research Assistant}, Department of Statistics \hfill 2017 -- 2021 \\
+University of Illinois, Champaign, IL \\
+Advisor: Dr. Bo Li
+\vspace{0.4cm}
+
+\noindent \textbf{Graduate Intern}, Mission Algorithms R\&S \hfill Summer 2018, 2019--2020 \\
+Sandia National Laboratories, Albuquerque, NM \\
+Advisor: Dr. J. Derek Tucker
+
+
+%%%%%%% Teaching
+\subsection*{Teaching Experience}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.1cm}
+
+\noindent \textbf{Instructor}, Department of Statistics \hfill 2021 -- Present \\
+Texas A\&M University, College Station, TX \vspace{0.1cm} \\
+--STAT 211: Principles of Statistics I \\
+--STAT 438: Bayesian Statistics
+\vspace{0.4cm}
+
+\noindent \textbf{Teaching Assistant}, Department of Accounting \hfill 2017 \\
+University of Illinois, Champaign, IL \vspace{0.1cm} \\
+--ACCY 570: Data Analytics Foundations for Accountancy \\
+--ACCY 571: Statistical Analyses for Accountancy
+\vspace{0.4cm}
+
+\noindent \textbf{Teaching Assistant}, Department of Statistics \hfill 2016 -- 2017 \\
+University of Illinois, Champaign, IL \vspace{0.1cm} \\
+--STAT 400: Statistics and Probability I
+
+
+%%%%%%% Professional
+\subsection*{Professional Experience}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.1cm}
+
+\noindent \textbf{Assistant Professor}, Department of Statistics \hfill 2021 -- Present \\
+Texas A\&M University, College Station, TX \\
+
+\noindent \textbf{Product Modeling Analyst}, Underwriting Research \hfill 2014 -- 2016 \\
+GEICO, Washington D.C.
+
+
+%%%%%%% Awards
+\subsection*{Awards and Honors}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{-0.2cm}
+
+\begin{itemize}[leftmargin=*,label={}]
+    \setlength\itemsep{-0.2em}
+    \item Horace W. Norton Prize for outstanding thesis research in Statistics  \hfill 2021
+    \item Selected as one of nine students to represent the University of Illinois in the national  \hfill 2020  competition for the Schmidt Science Fellows Program
+        
+    % \item Nominated for the UIUC Dissertation Completion Fellowship (2nd place) \hfill 2020
+    
+    \item Selected to attend the NextProf Science Workshop (canceled due to Coronavirus) \hfill 2020
+  
+    \item Honorable mention in the ICSA Midwest student poster competition \hfill 2019
+
+    \item UIUC Statistics Department's Leadership and Service award \hfill 2019
+    
+    \item Awarded travel funding for the 2019 STATMOS Spatial Statistics Workshop \hfill 2019
+    
+    \item UIUC List of Teachers Ranked as Excellent by Their Students \hfill 2016
+    
+    \item Graduated \textit{magna cum laude} at University of Florida \hfill 2014
+\end{itemize}
+
+%%%%%%% Papers
+\subsection*{Publications}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{-0.2cm}
+
+\begin{itemize}[leftmargin=*,label={}]
+    \setlength\itemsep{0.5em}
+    
+    \item \textbf{Harris, T.}, Li, B., Tucker, J. D. (2021) \textit{Scalable Multiple Change Point Detection for Functional Data Sequences}. Environmetrics, to appear.  \href{https://arxiv.org/pdf/2008.01889}{\color{blue} {arXiv.}}
+    
+    \item \textbf{Harris, T.}, Li, B., Steiger, N., Smerdon, J., Tucker, J. D., Narisetty, N. (2020). \textit{Evaluating Proxy Influence in Assimilated Paleoclimate Reconstructions -- Testing the Exchangeability of Two Ensembles of Spatial Processes}. Journal of the American Statistical Association.
+    % \href{https://arxiv.org/abs/1909.01273}{\color{blue} {arXiv.}}
+    \href{https://doi.org/10.1080/01621459.2020.1799810}{\color{blue}{Article.}}
+    
+    \item \textbf{Harris, T.}, Tucker, J. D., Li, B., Shand, L. (2020). \textit{Elastic Depths for Detecting Shape Anomalies in Functional Data}. Technometrics. 
+    % \href{https://arxiv.org/abs/1907.06759}{\color{blue} {arXiv.}}
+    \href{https://doi.org/10.1080/00401706.2020.1811156}{\color{blue}{Article.}}
+    
+    \item \textbf{Harris, T.}, Li, B. (2019). \textit{Kriging}. Wiley Statsref: Statistics Reference Online, John Wiley \& Sons Ltd. \href{https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118445112.stat03708.pub2}{\color{blue} {Article.}}
+\end{itemize}
+
+\subsection*{Submitted}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{-0.2cm}
+
+\begin{itemize}[leftmargin=*,label={}]
+    \setlength\itemsep{0.5em}
+    
+    \item \textbf{Harris, T.}, Li, B., Ryan Sriver (2022) \textit{Multi-model Ensemble Analysis with Neural Network Gaussian Processes}. In submission. Annals of Applied Statistics. \href{https://arxiv.org/pdf/2202.04152.pdf}{\color{blue} {arXiv.}}
+
+    \item Wang, M., \textbf{Harris, T.}, Li, B. (2022) \textit{Bayesian Changepoint Estimation for Spatially Indexed Functional Time Series}. In submission. Journal of Agricultural, Biological, and Environmental Sciences. \href{https://arxiv.org/pdf/2201.02742.pdf}{\color{blue} {arXiv.}}
+
+    \item Carmody, D., Mazzarello, M., Santi, P., \textbf{Harris, T.}, Lehmann, S., Abbiasov, T., Dunbar, R., Ratti, C. (2022) \textit{The effect of co-location on human communication networks}. In submission. Nature Computational Science. \href{https://arxiv.org/pdf/2201.02230.pdf}{\color{blue} {arXiv.}} \end{itemize}   
+
+
+%\subsection*{Manuscripts in Progress}
+%\vspace{-0.6cm}\noindent\hrulefill
+%\vspace{-0.2cm}
+%
+%\begin{itemize}[leftmargin=*,label={}]
+%    \setlength\itemsep{0.5em}
+%    
+%    \item \textbf{Harris, T.}, Li, B. Shriver, R. \textit{Climate Model Integration with Infinite Width Deep Neural Networks}
+%
+%    \item \textbf{Harris, T.}, Li, B. \textit{Noise injection as empirical Bayesian regression}
+%    
+%    \item Garret, R., \textbf{Harris, T.}, Li, B. (2022) \textit{Sliced Elastic Distances for Comparison and Validation of Climate Models}.
+%    
+%    \item \textbf{Harris, T.}, Li, B. \textit{Scalable Kriging with Bayesian Deep Learning}
+%    \item 
+% \end{itemize}  
+
+
+%%%%%% Funding
+\subsection*{Funding}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.2cm}
+
+\noindent Sandia National Laboratories LDRD for ``Deep learning-based spatio-temporal estimate of greenhouse gas emissions using satellite data''.  \$15k.
+ 
+
+%%%%%%% Technical Skills
+\subsection*{Software}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.2cm}
+
+\noindent \textbf{fmci:} R package for functional change point detection with the multiple changepoint isolation method \href{https://github.com/trevor-harris/fmci}{\color{blue} {Github.}}
+\vspace{1mm}
+
+\noindent \textbf{elasticdepth:} R package for computing elastic depths and identifying shape outliers. \href{https://github.com/trevor-harris/elasticdepth}{\color{blue} {Github.}}
+\vspace{1mm}
+
+\noindent \textbf{kstat:} R package for the Kolmogorov-Depth statistic for testing if two functional distribution are different. \href{https://github.com/trevor-harris/kstat}{\color{blue} {Github.}}
+\vspace{1mm}
+
+\noindent \textbf{extdepth:} R package for computing the extremal depths for functional data. \href{https://github.com/trevor-harris/extdepth}{\color{blue} {Github.}}
+\vspace{0mm}
+
+
+% %%%%%%% Working Papers
+% \subsection*{Working Papers}
+% \vspace{-0.6cm}\noindent\hrulefill
+% \vspace{-0.2cm}
+
+% \begin{itemize}[leftmargin=*,label={}]
+%     \setlength\itemsep{0.5em}
+    
+%     \item \textbf{Harris, T.}, Li, B. (2020). \textit{Variational Target Encoding for Climate Model Integration}. (Manuscript)
+    
+%     \item \textbf{Harris, T.}, Li, B. (2020). \textit{Scalable Kriging with Bayesian Deep Learning}. (Manuscript)
+    
+%     % \item \textbf{Harris, T.}, Li, B. (2020). \textit{Sparse Bayesian Neural Networks with the Regularized Group R2-D2 prior}. (Manuscript)
+    
+%     \item \textbf{Harris, T.} (2017). \textit{Fast Bayesian Genome Wide Association Studies with Variational Inference and the Horseshoe Prior}. (Manuscript)
+% \end{itemize}
+
+% \noindent \textbf{Harris, T.}, Li, B., Tucker, J. D. (2019+). \textit{Online Functional Change Point Detection with Total Variation Constrained Non-Negative Matrix Factorization}. (Manuscript)
+% \vspace{3mm}
+
+% \noindent \textbf{Harris, T.} (2017). \textit{Fast Bayesian Genome Wide Association Studies with Variational Inference and the Horseshoe Prior}. (Manuscript)
+
+%%%%%%% Conferences
+\subsection*{Conference Presentations}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{-0.2cm}
+
+\begin{itemize}[leftmargin=*,label={}]
+    \setlength\itemsep{0.45em}
+    
+    \item \textit{Variational target encoding for climate model integration}, JSM Seattle, July 2021
+    
+    \item \textit{Elastic depths for identifying shape anomalies in functional data}, ISI WSC Virtual, July 2021
+    
+    \item \textit{Variational target encoding for climate model integration},  AGU Fall Meeting, San Francisco, Dec 2020
+    
+    \item \textit{Variational target encoding for climate model integration}, CISL Climate Informatics, Oxford, Sept 2020
+    
+    \item \textit{Fast functional change point detection with total variation denoising}, JSM, Philadelphia, July 2020
+    
+    \item \textit{Evaluating proxy influence in assimilated paleoclimate reconstructions}, ENAR 2020 Spring Meeting, Nashville, Mar 2020
+
+    \item \textit{Evaluating proxy influence in assimilated paleoclimate reconstructions}, AGU Fall Meeting, San Francisco, Dec 2019
+    
+    \item \textit{Evaluating proxy influence in paleoclimate reconstructions}, ICSA Midwest Chapter Meeting, Chicago, Oct 2019 
+    
+    \item \textit{Elastic depths for identifying shape anomalies in functional data}, 62nd World Statistical Congress, Kuala Lumpur, Aug 2019
+    
+    \item \textit{Evaluating proxy influence in paleoclimate reconstructions}, JSM, Denver, Aug 2019 
+    
+    \item \textit{Evaluating proxy influence in data assimilation algorithms}, Bohrer Workshop (UIUC), Champaign, Nov 2018
+    
+    \item \textit{Evaluating proxy influence in data assimilation based climate field}, CISL Climate Informatics (NCAR), Boulder, Sept 2018
+    
+    \item \textit{Evaluating proxy Influence and reconstruction skill in data assimilation based climate field reconstructions using extremal depth}, Joint Statistical Meeting, Vancouver, July 2018
+\end{itemize}
+
+
+%%%%%%% Presentations
+\subsection*{Other Presentations}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{-0.2cm}
+
+\begin{itemize}[leftmargin=*,label={}]
+    \setlength\itemsep{0.45em}
+    
+    \item \textit{Functional change point detection with non-negative matrix factorization}, MARTIAN's Symposium, Sandia National Labs, July 2019
+    
+    \item \textit{An introduction to non-negative matrix factorization}, Intern Symposium, Sandia National Labs, June 2019
+    
+    \item \textit{Identifying phase and amplitude extremes in functional data with elastic depth}, Statistics Graduate Student Seminar (UIUC), Champaign, Mar 2019 
+    
+    \item \textit{Testing the exchangeability of two spatiotemporal processes with applications to data assimilation}, Illinois Climate Seminar (UIUC), Champaign, Mar 2019 
+    
+    \item \textit{Identifying phase and amplitude extremes in functional Data with elastic depth}, Sandia/UIUC Tech Talks (UIUC), Champaign, Sept 2018 
+    
+    \item \textit{Elastic depth for amplitude and phase in functional data}, MARTIAN's Symposium, Sandia National Lab, July 2018
+    
+    \item \textit{Elastic functional principal component regression}, Intern Symposium, Sandia National Lab, July 2018
+\end{itemize}
+
+
+
+%%%%%%% Professional activities
+\subsection*{Professional Activities}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.1cm}
+
+\noindent \textbf{Judge:} TAMU Datathon 2021,  Student Research Week 2022
+
+\noindent \textbf{Reviewer:} Journal of the American Statistical Association, Journal of Multivariate Analysis, Technometrics, Climate Informatics, Statistical Methods \& Applications, Stat, Journal of Climate, Climate of the Past, Journal of Machine Learning Reseach
+
+\vspace{1mm}
+
+\noindent \textbf{Membership:}
+\begin{itemize}
+\item American Statistical Association (2016--Present), 
+\item Institute of Mathematical Statistics (2019--Present), 
+\item American Geophysical Union (2019--Present), 
+\item International Chinese Statistical Association (2019--Present)
+\end{itemize}
+\vspace{-1mm}
+
+
+%%%%%%% Service
+\subsection*{Service}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.2cm}
+
+\noindent \textbf{Member:} Grant Opportunities, Library \& Web Site/Social Media committee \hfill 2021 -- Present
+
+\noindent \textbf{Founding member:} PhD Student Seminar series at UIUC \hfill 2018 -- 2021
+\vspace{1mm}
+
+\noindent \textbf{Founding member:} Statistics Graduate Student Organization at UIUC \hfill 2017 -- 2021
+\vspace{1mm}
+
+\noindent \textbf{President:} Statistics in the Community at UIUC \hfill 2017 -- 2018
+\vspace{0mm}
+
+
+%%%%%%% Technical Skills
+\subsection*{Tech}
+\vspace{-0.6cm}\noindent\hrulefill
+\vspace{0.2cm}
+
+\noindent \textbf{Programming:} R, Python, SAS, SQL, C++/Rcpp, VBA, Bash 
+\vspace{1mm}
+
+\noindent \textbf{Misc:} Linux, Git, Docker, \LaTeX
+\end{document}
