@@ -7,7 +7,7 @@ author_profile: true
 
 ### Papers and articles
 
-__Harris, T.__, Li, B., Shriver, R. (2022). _Multi-model Ensemble Analysis with Neural Network Gaussian Processes_. [arXiv.](https://arxiv.org/abs/2202.04152)
+__Harris, T.__, Li, B., Sriver, R. (2022). _Multi-model Ensemble Analysis with Neural Network Gaussian Processes_. [arXiv.](https://arxiv.org/abs/2202.04152)
 
 Wang, M., __Harris, T.__, Li, B. (2021). _Bayesian Changepoint Estimation for Spatially Indexed Functional Time Series_. Journal of Agricultural, Biological and Environmental Statistics. [arXiv.](https://arxiv.org/abs/2201.02742)
 
