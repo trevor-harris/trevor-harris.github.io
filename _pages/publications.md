@@ -13,7 +13,7 @@ Carmody, D., Mazzarello, M., Santi, P., __Harris, T.__, Lehmann, S., Abbiasov, T
 
 Wang, M., __Harris, T.__, Li, B. (2021). _Bayesian Changepoint Estimation for Spatially Indexed Functional Time Series_. Journal of Agricultural, Biological and Environmental Statistics. [arXiv.](https://arxiv.org/abs/2201.02742)
 
-__Harris, T.__, Li, B., J., Tucker, J. D., (2020). _Scalable Multiple Change Point Detection for Functional Data Sequences_. Environmetrics.
+__Harris, T.__, Li, B., J., Tucker, J. D., (2020). _Scalable Multiple Change Point Detection for Functional Data Sequences_. Environmetrics. [arXiv.](https://arxiv.org/abs/2008.01889)
 
 __Harris, T.__, Li, B., Steiger, N., Smerdon, J., Tucker, J. D., Narisetty, N. (2020). _Evaluating proxy influence in assimilated paleoclimate reconstructions -- Testing the exchangeability of two ensembles of spatial processes_. Journal of the American Statistical Association, to appear. [arXiv.](https://arxiv.org/abs/1909.01273)
 
