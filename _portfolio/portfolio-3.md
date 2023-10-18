@@ -1,8 +1,8 @@
 ---
-title: "Multi model ensemble analysis with Neural Network Gaussian Processes"
-excerpt: "Improving reconstruction error and image fidelity with NNGPs  <br/><img src='/images/nngp/predictionVisualization2.png'>"
+title: "Segmenting locally stationary time series"
+excerpt: "Fused Lasso with CUSUM to identify change points <br/><img src='/images/fcp/region3.png'>"
 collection: portfolio
 ---
 
 
-We introduced a NNGP model to take an ensemble of climate model output (CMIP6) and predict the corresponding reanalysis field (ERA5). We applied our model to both temperature and precipitation. Out of sample experiments showed that the NNGP significantly improves forecast accuracy and image reconstruction fidelity (pictured) over previous approaches based on model averaging. Current work seeks to further improve this models robustness to distribution shift (climate change) and better quantify the prediction uncertainty.
+We introduced a very fast method to estimate multiple change points from time series data. We first use a fused lasso to identify possible change points. However, because fused lasso tends to overestimate the number of change points, we introduced an aggregation scheme to merge nearby change points into change _sets_. We then use the boundaries of the change sets to define subregions and apply CUSUM with each region to identify the change point within each region. Whats nice is that this method is accurate and only requires one pass over the data to compute the fused lasso, then slightly less than two passes to find each change point.
