@@ -7,13 +7,13 @@ author_profile: true
 
 ### Papers and articles
 
-Tonks, A., __Harris, T.__, Li, B. (2023) \textit{Forecasting West Nile Virus with Graph Neural Networks: Harnessing Spatial Dependence in Irregularly Sampled Geospatial Data}. In revision. GeoHealth
+Tonks, A., __Harris, T.__, Li, B. (2023) _Forecasting West Nile Virus with Graph Neural Networks: Harnessing Spatial Dependence in Irregularly Sampled Geospatial Data_. In revision. GeoHealth
 
 __Harris, T.__, Li, B., Sriver, R. (2023). _Multi-model Ensemble Analysis with Neural Network Gaussian Processes_. [arXiv.](https://arxiv.org/abs/2202.04152)
 
-Fimbres-Macias, J.P., __Harris, T.__, Hamer, S., Hamer, G.(2022) \textit{Phenology and environmental predictors of Triatoma sanguisuga dispersal in east-central Texas, United States}. Accepted. Acta Tropica
+Fimbres-Macias, J.P., __Harris, T.__, Hamer, S., Hamer, G.(2022) _Phenology and environmental predictors of Triatoma sanguisuga dispersal in east-central Texas, United States_. Accepted. Acta Tropica
 
-Ringer J., Kadeethum, T., __Harris, T.__, Yoon, H (2022) \textit{Machine Learning Applications for Estimation of Greenhouse Gas Emissions Using Multiple Satellite Images}. AGU Conference Proceeedings. 
+Ringer J., Kadeethum, T., __Harris, T.__, Yoon, H (2022) _Machine Learning Applications for Estimation of Greenhouse Gas Emissions Using Multiple Satellite Images_. AGU Conference Proceeedings. 
 
 Wang, M., __Harris, T.__, Li, B. (2021). _Bayesian Changepoint Estimation for Spatially Indexed Functional Time Series_. Journal of Agricultural, Biological and Environmental Statistics. [arXiv.](https://arxiv.org/abs/2201.02742)
 
