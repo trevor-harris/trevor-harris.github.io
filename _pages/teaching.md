@@ -20,8 +20,11 @@ Introduction to basic Data Science workflows in Python covering various regressi
 
 __STAT 421:__ Machine Learning
 
+Covers classical machine learning algorithms and modern deep learning algorithms such as MLPs, CNNs, LSTMS with a focus on implementation, optimization, and applications to real data using Python.
+
 __STAT 600:__ Computational Statistics and reproducible computations
 
+Derivation and implementation of classic statistical compution algorithms including k-Means, multi-target logistic regression, and LASSO with a focus optimized and reproducible code.
 
 ## University of Illinios at Urbana-Champaign
 __STAT 400:__ Statistics and Probability 1
