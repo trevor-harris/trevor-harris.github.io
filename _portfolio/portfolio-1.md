@@ -4,5 +4,4 @@ excerpt: "Anomalous regions in 3 downscaled models relative to GFDL-ESM2M <br/><
 collection: portfolio
 ---
 
-
-Interesting plot from an upcoming project on CMIP 5 data.
+Work in Progress: Interesting plot from an upcoming project on CMIP data.
