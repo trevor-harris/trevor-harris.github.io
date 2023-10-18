@@ -12,7 +12,7 @@ Introduction to probability and statistics covering basic probability, Bayes rul
 
 __STAT 438:__ Bayesian Statistics
 
-Bayesian modeling and computation covering prior selection, conjugate models, Bayesian hierarchical modeling, Markov Chain Monte Carlo (MCMC), Variational inference, and introductory Bayesian nonparametrics.
+Bayesian modeling and computation covering prior selection, conjugate models, Bayesian hierarchical modeling, Markov Chain Monte Carlo (MCMC), variational inference, and introductory Bayesian nonparametrics.
 
 __STAT 335:__ Principles of Data Science
 
