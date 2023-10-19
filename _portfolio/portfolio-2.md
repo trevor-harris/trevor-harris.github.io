@@ -1,6 +1,6 @@
 ---
 title: "Graph Neural Networks for West Nile virus"
-excerpt: "Dynamic graphs of WNV mosquito traps <br/><img src='/images/gnn_mosquito/chicago_traps_graph_5_col.pdf'>"
+excerpt: "Dynamic graphs of WNV mosquito traps <br/><img src='/images/gnn_mosquito/chicago_traps_graph_5_col.pdf' width="300" height="400">"
 collection: portfolio
 ---
 
