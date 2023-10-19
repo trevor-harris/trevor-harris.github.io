@@ -1,6 +1,6 @@
 ---
 title: "Proxy influence by region"
-excerpt: "Testing for paleoclimate proxy influence in Data Assimilation  <br/><img src='/images/proxy/k_region.png'>"
+excerpt: "Testing for paleoclimate proxy influence in Data Assimilation  <br/><img src='/images/proxy/k_region.png' width="400" height="400">"
 collection: portfolio
 ---
 
