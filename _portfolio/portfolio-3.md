@@ -1,6 +1,6 @@
 ---
 title: "Segmenting locally stationary time series"
-excerpt: "Fused Lasso with CUSUM to identify change points <br/><img src='/images/fcp/region3.png' width="400" height="400">"
+excerpt: "Fused Lasso with CUSUM to identify change points <br/><img src='/images/fcp/region3.png' width="400" height="400" >"
 collection: portfolio
 ---
 
