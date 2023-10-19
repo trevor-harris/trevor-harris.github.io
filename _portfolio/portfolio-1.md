@@ -1,6 +1,6 @@
 ---
 title: "Multi model ensemble analysis with Neural Network Gaussian Processes"
-excerpt: "Improving reconstruction error and image fidelity with NNGPs  <br/><img src='/images/nngp/predictionVisualization2.png' width="600" />"
+excerpt: "Improving reconstruction error and image fidelity with NNGPs  <br/><img src='/images/nngp/predictionVisualization2.png' width='500'>"
 collection: portfolio
 ---
 
