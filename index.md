@@ -18,13 +18,13 @@ Department of Statistics
 University of Connecticut
 
 **Research Areas**
-- Climate science
 - Statistical machine learning
 - Uncertainty quantification
+- Climate science
 
 **Links**
 - [GitHub](https://github.com/trevor-harris)
-- [Google Scholar](https://scholar.google.com/) <!-- replace with your profile URL -->
+- [Google Scholar](https://scholar.google.com/ ) <!-- replace with your profile URL -->
 - [CV (PDF)](/assets/pdf/trevor-harris-cv.pdf) <!-- replace with actual path -->
 - [Email](mailto:trevor.a.harris@uconn.edu)
 
@@ -38,7 +38,7 @@ My research develops rigorous and scalable statistical and machine learning meth
 ## Research Areas
 
 **Climate Model Evaluation and Integration**
-Two fundamental problems my research tries to address are: 1. How well do climate models align with reality? and 2. How can we better align models with observations without overly constraining them? 
+My group develops statistical and machine learning methods for evaluating climate models against observational data. We primarily focus on comparing the long run distributions generated from climate model runs against historically observed climate distributions. We also develop methods for blending climate models with observational data products to constrain future projections. These include neural operator and gaussian process regression based approaches. 
 
 **Uncertainty Quantification and Generative Modeling**
 Projecting how the climate will respond to changes (e.g. increasing CO2) is an inherently uncertain task. To inform policy and planning, climate projections must not only forecast future states but also rigorously quantify and convey their uncertainty, especially as the climate system moves into regimes beyond the instrumental record. One key approach I employ is conformal prediction, a flexible statistical framework that generates rigorous uncertainty bounds for black-box forecasters. My recent work introduced new conformal prediction methods for climate ensembles and, more generally, for deep operator models. Ongoing work is connecting conformal prediction with generative model to represent conformal predictive distributions. We are also exploring generative modeling, such as conditional flow matching, as an alternative to autoregressive neural climate emulators.
