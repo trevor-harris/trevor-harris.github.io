@@ -6,7 +6,7 @@ Assistant Professor of Statistics and Machine Learning
 
 I work at the intersection of statistics, machine learning, and climate science, with a focus on uncertainty quantification, operator learning, generative modeling. My research develops rigorous and scalable statistical and machine learning methods for modeling complex spatiotemporal systems, with a primary focus on climate science. I study how to align large-scale physical climate models with observational data, quantify uncertainty in high-dimensional forecasts, and design principled tools for understanding climate risk.
 
-## Key Research Areas
+## Research Areas
 
 **Climate Model Evaluation and Integration**
 Two fundamental problems my research tries to address are: 1. How well do climate models align with reality? and 2. How can we better align models with observations without overly constraining them? 
