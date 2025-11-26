@@ -1,5 +1,7 @@
 ---
-title: "Home"
+layout: home
+title: Home
+permalink: /
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
