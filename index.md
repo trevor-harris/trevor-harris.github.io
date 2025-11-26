@@ -33,13 +33,13 @@ My research combines statistics and machine learning to develop robust, scalable
 
 ## Research Areas
 
-**Climate Model Evaluation and Integration**
+**Climate Model Evaluation and Integration**     
 My research develops statistical and machine learning methods for evaluating climate models against observations, with a focus on comparing long-run climate distributions and constraining future projections. As a counterpart to this work, I also work on deep learning / neural operator approaches that integrate physical model output with observational data to constrain climate projections and reduce bias.
 
-**Uncertainty Quantification and Generative Modeling**
+**Uncertainty Quantification and Generative Modeling**    
 I am also working on conformal and distribution-free uncertainty quantification methods for neural operators more generally, with recent efforts connecting conformal inference to generative models that represent full predictive distributions. Ongoing research explores calibrated flow-based generative models as efficient alternatives to autoregressive climate emulators.
 
-**Structure Discovery in Climate Systems**  
+**Structure Discovery in Climate Systems**    
 Finally, my group is also develops statistical and machine learning methods to uncover dependence structures, causal relationships, and compound risk in large-scale climate systems, enabling more reliable characterization of extremes and rare events.
 
 
