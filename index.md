@@ -18,9 +18,9 @@ Department of Statistics
 University of Connecticut
 
 **Research Areas**
-- Climate science
 - Statistical machine learning
 - Uncertainty quantification
+- Climate science
 
 **Links**
 - [GitHub](https://github.com/trevor-harris)
