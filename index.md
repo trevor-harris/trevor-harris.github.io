@@ -15,11 +15,6 @@ Assistant Professor
 Department of Statistics  
 University of Connecticut
 
-**Research Areas**
-- Statistical ML
-- Uncertainty
-- Climate
-
 **Links**
 - [GitHub](https://github.com/trevor-harris)
 - [Google Scholar](https://scholar.google.com/ ) <!-- replace with your profile URL -->
@@ -31,25 +26,19 @@ University of Connecticut
 <!-- RIGHT COLUMN -->
 <div style="flex: 3 1 320px; min-width: 0;" markdown="1">
 
-My research develops rigorous and scalable statistical and machine learning methods for modeling complex spatiotemporal systems, with a primary focus on climate science.
+My research combines statistics and machine learning to develop robust, scalable systems for spatiotemporal processes. This work is primairly driven by problems in climate science.
 
 ## Research Areas
 
 **Climate Model Evaluation and Integration**
-My group develops statistical and machine learning methods for evaluating climate models against observational data. We primarily focus on comparing the long run distributions generated from climate model runs against historically observed climate distributions. We also develop methods for blending climate models with observational data products to constrain future projections. These include neural operator and gaussian process regression based approaches. 
+My research develops statistical and machine learning methods for evaluating climate models against observations, with a focus on comparing long-run climate distributions and constraining future projections. As a counterpart to this work, I also work on deep learning / neural operator approaches that integrate physical model output with observational data to constrain climate projections and reduce bias.
 
 **Uncertainty Quantification and Generative Modeling**
-My recent work introduced new conformal prediction methods for climate ensembles and, more generally, for deep operator models. Ongoing work is connecting conformal prediction with generative model to represent conformal predictive distributions. We are also exploring generative modeling, such as conditional flow matching, as an alternative to autoregressive neural climate emulators.
+I am also working on conformal and distribution-free uncertainty quantification methods for neural operators more generally, with recent efforts connecting conformal inference to generative models that represent full predictive distributions. Ongoing research explores calibrated flow-based generative models as efficient alternatives to autoregressive climate emulators.
 
 **Structure Discovery in Climate Systems**  
-I have also developed statistical and machine learning methods to uncover dependence patterns, causal structure, and compound risk in large-scale climate systems.
+Finally, my group is also develops statistical and machine learning methods to uncover dependence structures, causal relationships, and compound risk in large-scale climate systems, enabling more reliable characterization of extremes and rare events.
 
-
-## Pages
-- [Publications](publications.md)
-- [Talks](talks.md)
-- [Teaching](teaching.md)
-- [Code](code.md)
 
 </div>
 </div>
