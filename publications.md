@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-## Publications
-
 - Greiffenstein, E., **Harris, T.**, Smith, B. (2025). *Forecasting West Nile Virus with Deep Graph Encoders*. Annals of Applied Statistics. *In review*.
 
 - **Harris, T.**, Liu, Y. (2025). *Locally Adaptive Conformal Inference for Operator Models*. International Conference on Learning Representations 14 (ICLR). *In review*.
