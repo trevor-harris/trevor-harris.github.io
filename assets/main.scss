@@ -8,3 +8,14 @@
   display: none;
 }
 
+/* Slightly nicer body text */
+body {
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+/* Better spacing under headings */
+h1, h2, h3 {
+  margin-top: 1.4em;
+}
+
