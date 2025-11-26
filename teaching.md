@@ -1,3 +1,7 @@
+---
+title: "Teaching"
+---
+
 ## University of Connecticut (2024–Present)
 **Instructor, Department of Statistics**
 
