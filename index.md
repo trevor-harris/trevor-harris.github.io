@@ -17,7 +17,6 @@ Assistant Professor
 Department of Statistics  
 University of Connecticut
 
-**Links**
 <div class="sidebar" markdown="1">
 - [GitHub](https://github.com/trevor-harris)
 - [Google Scholar](https://scholar.google.com/ ) <!-- replace with your profile URL -->
