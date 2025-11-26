@@ -1,9 +1,3 @@
----
-title: "Code"
----
-
-# Code
-
 I develop research-focused software for uncertainty quantification, climate science, and functional data analysis.
 
 ## Python Packages
