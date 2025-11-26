@@ -19,3 +19,16 @@ h1, h2, h3 {
   margin-top: 1.4em;
 }
 
+/* Elegant list styling */
+ul {
+  list-style: none;
+  padding-left: 1.2em;
+}
+
+ul li::before {
+  content: ">";
+  color: #666;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
