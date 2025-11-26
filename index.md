@@ -24,7 +24,7 @@ University of Connecticut
 
 **Links**
 - [GitHub](https://github.com/trevor-harris)
-- [Google Scholar](https://scholar.google.com/) <!-- replace with your profile URL -->
+- [Google Scholar](https://scholar.google.com/citations?user=y5ibUQsAAAAJ) <!-- replace with your profile URL -->
 - [CV (PDF)](/assets/pdf/trevor-harris-cv.pdf) <!-- replace with actual path -->
 - [Email](mailto:trevor.a.harris@uconn.edu)
 
