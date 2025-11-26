@@ -2,7 +2,38 @@
 title: "Home"
 ---
 
-Assistant Professor of Statistics and Machine Learning
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
+
+<!-- LEFT COLUMN -->
+<div style="flex: 1 1 260px; max-width: 260px;">
+
+<img src="/assets/images/headshot.jpg" 
+     alt="Trevor Harris" 
+     style="width: 100%; border-radius: 6px; margin-bottom: 16px;" />
+
+### Trevor Harris
+
+Assistant Professor  
+Department of Statistics  
+University of Connecticut
+
+**Research Areas**
+- Climate science
+- Statistical machine learning
+- Uncertainty quantification
+
+**Links**
+- [GitHub](https://github.com/trevor-harris)
+- [Google Scholar](https://scholar.google.com/) <!-- replace with your profile URL -->
+- [CV (PDF)](/assets/pdf/trevor-harris-cv.pdf) <!-- replace with actual path -->
+- [Email](mailto:trevor.a.harris@uconn.edu)
+
+</div>
+
+<!-- RIGHT COLUMN -->
+<div style="flex: 3 1 320px; min-width: 0;">
+
+## Research
 
 I work at the intersection of statistics, machine learning, and climate science, with a focus on uncertainty quantification, operator learning, generative modeling. My research develops rigorous and scalable statistical and machine learning methods for modeling complex spatiotemporal systems, with a primary focus on climate science. I study how to align large-scale physical climate models with observational data, quantify uncertainty in high-dimensional forecasts, and design principled tools for understanding climate risk.
 
@@ -23,3 +54,6 @@ I have also developed statistical and machine learning methods to uncover depend
 - [Talks](talks.md)
 - [Teaching](teaching.md)
 - [Code](code.md)
+
+</div>
+</div>
