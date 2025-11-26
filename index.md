@@ -5,7 +5,7 @@ title: "Home"
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
 
 <!-- LEFT COLUMN -->
-<div style="flex: 1 1 260px; max-width: 260px;" markdown="1">
+<div style="flex: 1 1 260px; max-width: 200px;" markdown="1">
 
 <img src="/assets/images/headshot.jpg" 
      alt="Trevor Harris" 
