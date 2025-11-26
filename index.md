@@ -7,7 +7,7 @@ title: "Home"
 <!-- LEFT COLUMN -->
 <div style="flex: 1 1 260px; max-width: 200px;" markdown="1">
 
-<img src="/assets/images/headshot.jpg" 
+<img src="/assets/images/trevor.jpg" 
      alt="Trevor Harris" 
      style="width: 100%; border-radius: 6px; margin-bottom: 16px;" />
 
@@ -18,15 +18,15 @@ Department of Statistics
 University of Connecticut
 
 **Research Areas**
-- Statistical machine learning
-- Uncertainty quantification
-- Climate science
+- Statistical ML
+- Uncertainty
+- Climate
 
 **Links**
-- [GitHub](https://github.com/trevor-harris)
-- [Google Scholar](https://scholar.google.com/ ) <!-- replace with your profile URL -->
-- [CV (PDF)](/assets/pdf/trevor-harris-cv.pdf) <!-- replace with actual path -->
-- [Email](mailto:trevor.a.harris@uconn.edu)
+[GitHub](https://github.com/trevor-harris)
+[Google Scholar](https://scholar.google.com/ ) <!-- replace with your profile URL -->
+[CV (PDF)](/assets/pdf/trevor-harris-cv.pdf) <!-- replace with actual path -->
+[Email](mailto:trevor.a.harris@uconn.edu)
 
 </div>
 
