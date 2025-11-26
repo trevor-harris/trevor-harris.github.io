@@ -18,10 +18,12 @@ Department of Statistics
 University of Connecticut
 
 **Links**
+<div class="sidebar" markdown="1">
 - [GitHub](https://github.com/trevor-harris)
 - [Google Scholar](https://scholar.google.com/ ) <!-- replace with your profile URL -->
 - [CV (PDF)](/assets/pdf/trevor-harris-cv.pdf) <!-- replace with actual path -->
 - [Email](mailto:trevor.a.harris@uconn.edu)
+</div>
 
 </div>
 
