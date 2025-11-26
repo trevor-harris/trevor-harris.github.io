@@ -1,3 +1,7 @@
+---
+title: "Publications"
+---
+
 ## Publications
 
 - Greiffenstein, E., **Harris, T.**, Smith, B. (2025). *Forecasting West Nile Virus with Deep Graph Encoders*. Annals of Applied Statistics. *In review*.
