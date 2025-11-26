@@ -1,0 +1,10 @@
+title: Trevor Harris
+description: Assistant Professor — Statistics & Machine Learning
+theme: minima
+
+header_pages:
+  - index.md
+  - publications.md
+  - teaching.md
+  - code.md
+  - talks.md
