@@ -1,7 +1,3 @@
----
-title: "Talks"
----
-
 ## Selected Invited Presentations
 
 - Locally Adaptive Conformal Inference for Operator Models — CMU, Pittsburgh, PA (2025)  
