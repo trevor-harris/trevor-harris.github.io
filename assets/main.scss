@@ -22,11 +22,11 @@ h1, h2, h3 {
 /* Elegant list styling */
 ul {
   list-style: none;
-  padding-left: 1.2em;
+  padding-left: 0.1em;
 }
 
 ul li::before {
-  content: ">";
+  content: "";
   color: #666;
   display: inline-block;
   width: 1em;
