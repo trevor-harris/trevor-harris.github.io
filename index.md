@@ -11,5 +11,6 @@ with a focus on uncertainty quantification, operator learning, and climate model
 
 ## Pages
 - [Publications](publications.md)
+- [Talks](talks.md)
 - [Teaching](teaching.md)
 - [Code](code.md)
