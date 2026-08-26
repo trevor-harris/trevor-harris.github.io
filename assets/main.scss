@@ -118,11 +118,11 @@ a:focus {
 }
 
 .profile-card {
-  background: var(--white);
-  border: 1px solid var(--line);
-  border-radius: 16px;
-  box-shadow: var(--shadow);
-  padding: 16px 16px 19px;
+  background: var(--soft);
+  border: 1px solid #e3e8ea;
+  border-radius: 11px;
+  box-shadow: none;
+  padding: 14px 14px 17px;
 }
 
 .profile-photo {
@@ -153,8 +153,8 @@ a:focus {
 }
 
 .button {
-  background: var(--white);
-  border: 1px solid #c9d3d9;
+  background: rgba(255, 255, 255, 0.58);
+  border: 1px solid #d4dce0;
   border-radius: 7px;
   color: var(--ink);
   display: inline-block;

@@ -19,7 +19,7 @@ permalink: /
 
   <div class="hero-copy">
     <p class="eyebrow">Statistics · Machine Learning · Scientific Computing</p>
-    <h1>Reliable uncertainty for modern machine learning and scientific systems.</h1>
+    <h1>Reliable uncertainty for modern scientific machine learning.</h1>
     <p class="lede">My research develops rigorous statistical machine learning methods for uncertainty-aware prediction and decision-making in complex, high-dimensional systems. I focus on calibrated predictive distributions, conformal inference, generative modeling, operator learning, and structured prediction for spatiotemporal data.</p>
     <div class="topic-list" aria-label="Research topics">
       <span>Conformal inference</span>
