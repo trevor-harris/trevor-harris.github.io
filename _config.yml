@@ -1,6 +1,9 @@
 title: Trevor Harris
-description: Assistant Professor — Statistics & Machine Learning
+description: Statistical machine learning, calibrated uncertainty, and scientific systems
 theme: minima
+
+author: Trevor Harris
+url: "https://trevor-harris.github.io"
 
 header_pages:
   - index.md
