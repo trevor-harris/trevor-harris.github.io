@@ -179,6 +179,10 @@ a:focus {
   color: var(--white);
 }
 
+.button-primary:visited {
+  color: var(--white);
+}
+
 .button-primary:hover,
 .button-primary:focus {
   background: var(--accent-dark);
