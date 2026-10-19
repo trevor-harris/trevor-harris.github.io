@@ -2,7 +2,7 @@
 title: "Talks"
 ---
 
-Presentation record from my [CV](/assets/pdf/CV/CV.pdf), with slides linked where available.
+Presentation record from my [CV](/assets/pdf/CV/Trevor_Harris_CV_2026-10-13.pdf), with slides linked where available.
 
 ## Invited talks
 

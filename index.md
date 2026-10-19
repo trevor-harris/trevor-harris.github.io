@@ -8,10 +8,10 @@ permalink: /
 <section class="home-intro">
   <aside class="home-profile">
     <img class="profile-photo" src="/assets/images/trevor.jpg" alt="Trevor Harris" />
-    <p class="profile-role">Assistant Professor<br />Department of Statistics<br />University of Connecticut</p>
+    <p class="profile-role">Assistant Professor<br />Department of Statistics<br />University of Connecticut<br /><a class="profile-email" href="mailto:trevor.a.harris@uconn.edu">trevor.a.harris@uconn.edu</a></p>
     <div class="profile-links">
-      <a class="button button-primary" href="/assets/pdf/CV/CV.pdf">CV</a>
-      <a class="button" href="mailto:trevor.a.harris@uconn.edu">Email</a>
+      <a class="button button-primary" href="/assets/pdf/CV/Trevor_Harris_CV_2026-10-13.pdf">CV</a>
+      <a class="button" href="/assets/pdf/Trevor_Harris_Resume_2026-10-18.pdf">Resume</a>
       <a class="button" href="https://github.com/trevor-harris">GitHub</a>
       <a class="button" href="https://statistics.uconn.edu/person/trevor-harris/">UConn</a>
     </div>

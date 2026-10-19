@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-Papers are grouped by publication status. The complete record is also available in my [CV](/assets/pdf/CV/CV.pdf).
+Papers are grouped by publication status. The complete record is also available in my [CV](/assets/pdf/CV/Trevor_Harris_CV_2026-10-13.pdf).
 
 ## Manuscripts under review
 
