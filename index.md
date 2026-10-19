@@ -4,10 +4,10 @@ title: Home
 permalink: /
 ---
 
-<section class="hero">
-  <aside class="profile-card">
+<div class="academic-home">
+<section class="home-intro">
+  <aside class="home-profile">
     <img class="profile-photo" src="/assets/images/trevor.jpg" alt="Trevor Harris" />
-    <p class="profile-name">Trevor Harris, PhD</p>
     <p class="profile-role">Assistant Professor<br />Department of Statistics<br />University of Connecticut</p>
     <div class="profile-links">
       <a class="button button-primary" href="/assets/pdf/CV/CV.pdf">CV</a>
@@ -17,83 +17,51 @@ permalink: /
     </div>
   </aside>
 
-  <div class="hero-copy">
-    <p class="eyebrow">Statistics · Machine Learning · Climate</p>
-    <h1>Reliable uncertainty for modern machine learning and scientific systems.</h1>
-    <p class="lede">My research develops rigorous statistical machine learning methods for uncertainty-aware prediction and decision-making in complex, high-dimensional systems. I focus on calibrated predictive distributions, conformal inference, generative modeling, operator learning, and structured prediction for spatiotemporal data.</p>
-    <div class="topic-list" aria-label="Research topics">
-      <span>Conformal inference</span>
-      <span>Generative modeling</span>
-      <span>Operator learning</span>
-      <span>Climate and environmental systems</span>
-    </div>
+  <div class="home-bio">
+    <h1>Trevor Harris</h1>
+    <p>I am an Assistant Professor of Statistics at the University of Connecticut. I work on uncertainty quantification, statistical learning, and methods for spatial and functional data, with applications in climate science and epidemiology.</p>
+    <p>Much of my research asks how we can assess the uncertainty in a model's predictions and use those predictions to learn about a scientific system. Recent work studies conformal prediction for functions and spatial events, the evaluation of climate models, and forecasting from irregular monitoring networks.</p>
+    <p>Before joining UConn in 2024, I was an Assistant Professor at Texas A&amp;M University. I received my PhD in Statistics from the University of Illinois Urbana-Champaign.</p>
   </div>
 </section>
 
-## Recent work
-
-<div class="work-grid">
-  <article class="work-card">
-    <p class="card-meta">2026 · NeurIPS, in review</p>
-    <h3>Flow-Based Conformal Predictive Distributions</h3>
-    <p>Turns high-dimensional conformal prediction sets into calibrated distributions that can be sampled and used in downstream scientific tasks.</p>
-    <p class="card-links"><a href="https://arxiv.org/abs/2602.07633">Paper</a><a href="https://github.com/trevor-harris/flowcp">Code</a></p>
-  </article>
-
-  <article class="work-card">
-    <p class="card-meta">2026 · Preprint</p>
-    <h3>Manifold Constrained Conformal Prediction for Spatial Events</h3>
-    <p>Builds calibrated, geometrically plausible prediction sets for spatial event clouds such as tropical cyclone genesis and earthquakes.</p>
-    <p class="card-links"><a href="https://arxiv.org/abs/2607.10008">Paper</a></p>
-  </article>
-
-  <article class="work-card">
-    <p class="card-meta">2025 · TMLR, in review</p>
-    <h3>Locally Adaptive Conformal Inference for Operator Models</h3>
-    <p>Provides locally adaptive, function-valued uncertainty sets for neural operators with finite-sample statistical guarantees.</p>
-    <p class="card-links"><a href="https://arxiv.org/abs/2507.20975">Paper</a><a href="https://github.com/trevor-harris/LSCI">Code</a></p>
-  </article>
-</div>
-
-## Research program
-
-<div class="research-themes">
-  <section class="theme-block">
-    <p class="theme-number">01</p>
-    <div>
-      <h3>Calibrated generative inference</h3>
-      <p>I develop conformal predictive distributions and flow-based methods that retain finite-sample reliability while representing uncertainty over fields, functions, trajectories, and point processes. The goal is to make modern generative models statistically calibrated and usable for downstream decisions.</p>
-    </div>
+<section class="home-research" aria-labelledby="research-heading">
+  <h2 id="research-heading">Research</h2>
+  <section>
+    <h3>Uncertainty quantification</h3>
+    <p>I develop conformal methods for predictions that take the form of functions, fields, trajectories, or collections of spatial events. My recent work uses flows to sample from conformal prediction regions and construct predictive distributions, making these regions easier to represent and use.</p>
   </section>
-
-  <section class="theme-block">
-    <p class="theme-number">02</p>
-    <div>
-      <h3>Scientific machine learning for climate and spatiotemporal systems</h3>
-      <p>Climate provides a demanding test bed for model evaluation, distribution shift, operator learning, and uncertainty quantification. My work develops distributional metrics for climate-model validation and methods that integrate simulations with observational data to produce more reliable projections.</p>
-    </div>
+  <section>
+    <h3>Climate model evaluation and integration</h3>
+    <p>I study how climate simulations differ from observations and how the two can be combined to improve projections. This includes distributional comparisons using optimal transport, methods for separating timing and amplitude errors, and conformal ensembles for quantifying projection uncertainty.</p>
   </section>
-
-  <section class="theme-block">
-    <p class="theme-number">03</p>
-    <div>
-      <h3>Dependence, extremes, and environmental decisions</h3>
-      <p>I study spatiotemporal dependence, teleconnections, extremes, and intervention in environmental systems. Applications include compound climate risk, West Nile virus forecasting, mosquito-control policy, and other settings where incomplete monitoring and changing environments complicate prediction.</p>
-    </div>
+  <section>
+    <h3>Spatial dependence and environmental risk</h3>
+    <p>I also work on dependence and extremes in environmental data, including teleconnections and compound climate risk. In epidemiological collaborations, I develop graph models for West Nile virus forecasting and study the effects of mosquito-control interventions.</p>
   </section>
-</div>
+</section>
 
 <div class="figure-grid">
   <figure class="research-figure">
     <img src="/assets/images/research/conformal-ensembles.png" alt="Conformal climate projections for temperature and precipitation" />
-    <figcaption>Conformal ensembles combine climate-model output with observations to produce tighter, calibrated projections.</figcaption>
+    <figcaption>Temperature and precipitation projections from conformal ensembles and conventional ensemble methods.</figcaption>
   </figure>
   <figure class="research-figure">
     <img src="/assets/images/research/extreme-teleconnections.png" alt="Map of estimated extremal teleconnection structure" />
-    <figcaption>Estimated extremal teleconnection structure reveals regions that may contribute to compound climate risk.</figcaption>
+    <figcaption>Estimated tail dependence across the globe, used to study connections between extreme events.</figcaption>
   </figure>
 </div>
 
-## About
-
-I am an Assistant Professor in the Department of Statistics at the University of Connecticut. Before joining UConn in 2024, I was an Assistant Professor of Statistics at Texas A&M University. I received my PhD in Statistics from the University of Illinois Urbana-Champaign. My work has appeared in NeurIPS, the *Annals of Applied Statistics*, JASA, *Technometrics*, JABES, and scientific application journals, and has been supported by Sandia National Laboratories and private foundations.
+<section class="home-papers" aria-labelledby="papers-heading">
+  <h2 id="papers-heading">Selected papers</h2>
+  <ul>
+    <li><a href="https://arxiv.org/abs/2602.07633">Flow-Based Conformal Predictive Distributions</a> (2026). <a class="paper-code" href="https://github.com/trevor-harris/flowcp">Code</a></li>
+    <li><a href="https://arxiv.org/abs/2607.10008">Manifold Constrained Conformal Prediction for Spatial Events</a> (2026).</li>
+    <li><a href="https://arxiv.org/abs/2507.20975">Locally Adaptive Conformal Inference for Operator Models</a> (2025). <a class="paper-code" href="https://github.com/trevor-harris/LSCI">Code</a></li>
+    <li><a href="https://arxiv.org/abs/2408.06642">Quantifying Uncertainty in Climate Projections with Conformal Ensembles</a> (2024). <a class="paper-code" href="https://github.com/trevor-harris/confensemble">Code</a></li>
+    <li><a href="https://papers.nips.cc/paper_files/paper/2024/hash/6cac74e7bb50d1f21626800f5b49a869-Abstract-Conference.html">Validating Climate Models with Spherical Convolutional Wasserstein Distance</a> (2024). <a class="paper-code" href="https://github.com/trevor-harris/SCWD">Code</a></li>
+    <li><a href="https://arxiv.org/abs/2509.22657">Forecasting West Nile Virus with Deep Graph Encoders</a> (2025).</li>
+  </ul>
+  <p>See the <a href="/publications.html">full publication list</a> for all papers and their current status.</p>
+</section>
+</div>

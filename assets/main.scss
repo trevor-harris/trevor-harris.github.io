@@ -383,6 +383,115 @@ a:focus {
   font-size: 1rem;
 }
 
+.academic-home {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.home-intro {
+  display: grid;
+  grid-template-columns: 205px minmax(0, 1fr);
+  align-items: start;
+  gap: 48px;
+  margin-bottom: 40px;
+}
+
+.home-profile {
+  padding: 0;
+}
+
+.home-profile .profile-photo {
+  border-radius: 4px;
+}
+
+.home-profile .profile-role {
+  margin-top: 16px;
+}
+
+.home-bio h1 {
+  font-size: 2.25rem;
+  font-weight: 650;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+  margin: 0 0 20px;
+}
+
+.home-bio p,
+.home-research p {
+  color: #34414d;
+}
+
+.academic-home h2 {
+  font-size: 1.45rem;
+  font-weight: 650;
+  line-height: 1.3;
+  margin: 36px 0 20px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--line);
+}
+
+.home-research h3 {
+  font-size: 1.05rem;
+  font-weight: 650;
+  margin: 23px 0 6px;
+}
+
+.academic-home .research-figure {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.academic-home .research-figure img {
+  height: auto;
+  aspect-ratio: 1.65;
+  padding: 0;
+}
+
+.academic-home .research-figure figcaption {
+  border: 0;
+  padding: 10px 0 0;
+}
+
+.home-papers ul {
+  margin-left: 20px;
+}
+
+.home-papers li {
+  margin-bottom: 13px;
+  padding-left: 3px;
+}
+
+.paper-code {
+  font-size: 0.85em;
+}
+
+@media (max-width: 650px) {
+  .home-intro {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .home-profile {
+    display: grid;
+    grid-template-columns: 120px minmax(0, 1fr);
+    gap: 0 20px;
+    max-width: 400px;
+  }
+
+  .home-profile .profile-photo {
+    grid-row: 1 / 3;
+  }
+
+  .home-profile .profile-role {
+    margin: 0 0 12px;
+  }
+
+  .home-profile .profile-links {
+    grid-column: 2;
+  }
+}
+
 .site-footer {
   background: #eef3f4;
   border-top: 1px solid var(--line);
