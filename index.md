@@ -28,17 +28,18 @@ permalink: /
 <section class="home-research" aria-labelledby="research-heading">
   <h2 id="research-heading">Research</h2>
   <section>
-    <h3>Uncertainty quantification</h3>
-    <p>I develop conformal methods for predictions that take the form of functions, fields, trajectories, or collections of spatial events. My recent work uses flows to sample from conformal prediction regions and construct predictive distributions, making these regions easier to represent and use.</p>
+    <h3>Climate model evaluation, integration, and emulation</h3>
+    <p>I develop statistical methods for comparing climate simulations with observations and combining information across models and spatial resolutions. This includes optimal transport metrics for distributional bias and extremes, and operator models for estimating local climate distributions. Current work also develops lightweight emulators of the climate’s forced response, with the aim of extending weather models to unfamiliar climate conditions.</p>
   </section>
   <section>
-    <h3>Climate model evaluation and integration</h3>
-    <p>I study how climate simulations differ from observations and how the two can be combined to improve projections. This includes distributional comparisons using optimal transport, methods for separating timing and amplitude errors, and conformal ensembles for quantifying projection uncertainty.</p>
+    <h3>Uncertainty quantification and calibration</h3>
+    <p>I develop conformal methods for quantifying uncertainty in predictions of functions, fields, and trajectories. Recent work uses flows to represent conformal prediction sets and construct predictive distributions. I am extending this approach to calibrate probabilistic models through constrained optimal transport: finding the closest distribution that satisfies specified statistical and physical constraints.</p>
   </section>
   <section>
-    <h3>Spatial dependence and environmental risk</h3>
-    <p>I also work on dependence and extremes in environmental data, including teleconnections and compound climate risk. In epidemiological collaborations, I develop graph models for West Nile virus forecasting and study the effects of mosquito-control interventions.</p>
+    <h3>Dependence, extremes, and inverse problems</h3>
+    <p>I study how interactions across space and time shape environmental variability and risk. My work includes neural methods for detecting Granger-causal influences and estimating conditional dependence between precipitation extremes. A newer direction develops simulation-based inference and confidence distributions for functional inverse problems, including reconstructing unobserved climate processes from indirect observations.</p>
   </section>
+  <p>In epidemiological collaborations, I also develop graph models for West Nile virus forecasting and study the effects of mosquito-control interventions.</p>
 </section>
 
 <div class="figure-grid">
