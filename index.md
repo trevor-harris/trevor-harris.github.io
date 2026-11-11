@@ -27,31 +27,44 @@ permalink: /
 
 <section class="home-research" aria-labelledby="research-heading">
   <h2 id="research-heading">Research</h2>
-  <section>
+  <section class="research-row">
+    <figure class="research-figure">
+      <a href="/assets/images/research/climate-model-evaluation.webp" aria-label="View the climate model evaluation figure at full size">
+        <img src="/assets/images/research/climate-model-evaluation.webp" width="944" height="498" loading="lazy" decoding="async" alt="Map of temperature-distribution differences between GISS-E2-2-G and ERA5, with larger differences near the Arctic" />
+      </a>
+      <figcaption><a href="https://papers.nips.cc/paper_files/paper/2024/hash/6cac74e7bb50d1f21626800f5b49a869-Abstract-Conference.html">SCWD</a> reveals where a climate model differs from reanalysis.</figcaption>
+    </figure>
+    <div class="research-copy">
     <h3>Climate model evaluation, integration, and emulation</h3>
-    <p>I develop statistical methods for comparing climate simulations with observations and combining information across models and spatial resolutions. This includes optimal transport metrics for distributional bias and extremes, and operator models for estimating local climate distributions. Current work also develops lightweight emulators of the climate’s forced response, with the aim of extending weather models to unfamiliar climate conditions.</p>
+    <p>My research develops statistical methods for comparing climate simulations with observations and combining information across models and spatial resolutions. This includes optimal transport metrics for distributional bias and extremes, and operator models for estimating local climate distributions. Current work is on developing lightweight latent emulators of the climate’s forced response, with the aim of extending weather models to novel climate conditions.</p>
+    </div>
   </section>
-  <section>
+  <section class="research-row">
+    <figure class="research-figure">
+      <a href="/assets/images/research/conformal-flow.webp" aria-label="View the conformal flow figure at full size">
+        <img src="/assets/images/research/conformal-flow.webp" width="594" height="466" loading="lazy" decoding="async" alt="Blue samples approach a red conformal boundary along the arrows of a nonconformity flow" />
+      </a>
+      <figcaption>A <a href="https://arxiv.org/abs/2602.07633">nonconformity flow</a> moves samples toward a prediction-set boundary.</figcaption>
+    </figure>
+    <div class="research-copy">
     <h3>Uncertainty quantification and calibration</h3>
-    <p>I develop conformal methods for quantifying uncertainty in predictions of functions, fields, and trajectories. Recent work uses flows to represent conformal prediction sets and construct predictive distributions. I am extending this approach to calibrate probabilistic models through constrained optimal transport: finding the closest distribution that satisfies specified statistical and physical constraints.</p>
+    <p>More broadly I also develop conformal methods for quantifying uncertainty in operators models for functions, fields, and trajectories. Recent work uses flows to represent conformal prediction sets and construct predictive distributions. I am extending this approach to calibrate probabilistic models through constrained optimal transport which find the nearest distribution that satisfies specified statistical and physical constraints.</p>
+    </div>
   </section>
-  <section>
+  <section class="research-row">
+    <figure class="research-figure">
+      <a href="/assets/images/research/precipitation-dependence.webp" aria-label="View the precipitation dependence figure at full size">
+        <img src="/assets/images/research/precipitation-dependence.webp" width="1100" height="463" loading="lazy" decoding="async" alt="Global map of wintertime conditional tail dependence in precipitation extremes relative to a boxed equatorial Pacific region" />
+      </a>
+      <figcaption>Wintertime dependence between precipitation extremes and the boxed Pacific region.</figcaption>
+    </figure>
+    <div class="research-copy">
     <h3>Dependence, extremes, and inverse problems</h3>
-    <p>I study how interactions across space and time shape environmental variability and risk. My work includes neural methods for detecting Granger-causal influences and estimating conditional dependence between precipitation extremes. A newer direction develops simulation-based inference and confidence distributions for functional inverse problems, including reconstructing unobserved climate processes from indirect observations.</p>
+    <p>My work also studies how interactions across space and time shape environmental variability and risk. My work includes neural methods for detecting Granger-causal influences and estimating conditional dependence between precipitation extremes. In a newer direction, I am also developing simulation based inference (SBI) and confidence distributions for functional inverse problems. Applications include reconstructing unobserved climate processes from indirect observations.</p>
+    </div>
   </section>
-  <p>In epidemiological collaborations, I also develop graph models for West Nile virus forecasting and study the effects of mosquito-control interventions.</p>
+  <p>I also develop graph models for West Nile virus forecasting and optimize mosquito-control intervention policies with reinforcement learning in collaboration with epidemiologists.</p>
 </section>
-
-<div class="figure-grid">
-  <figure class="research-figure">
-    <img src="/assets/images/research/conformal-ensembles.png" alt="Conformal climate projections for temperature and precipitation" />
-    <figcaption>Temperature and precipitation projections from conformal ensembles and conventional ensemble methods.</figcaption>
-  </figure>
-  <figure class="research-figure">
-    <img src="/assets/images/research/extreme-teleconnections.png" alt="Map of estimated extremal teleconnection structure" />
-    <figcaption>Estimated tail dependence across the globe, used to study connections between extreme events.</figcaption>
-  </figure>
-</div>
 
 <section class="home-papers" aria-labelledby="papers-heading">
   <h2 id="papers-heading">Selected papers</h2>
