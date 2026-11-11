@@ -20,7 +20,7 @@ permalink: /
   <div class="home-bio">
     <h1>Trevor Harris</h1>
     <p>I am an Assistant Professor of Statistics at the University of Connecticut. I work on uncertainty quantification, statistical learning, and methods for spatial and functional data, with applications in climate science and epidemiology.</p>
-    <p>Much of my research asks how we can assess the uncertainty in a model's predictions and use those predictions to learn about a scientific system. Recent work studies conformal prediction for functions and spatial events, the evaluation of climate models, and forecasting from irregular monitoring networks.</p>
+    <p>Much of my research asks how we can assess the reliability and uncertainty of a model's predictions and use those predictions to learn about system we're modeling. Recent works include conformal prediction for functions and spatial events, the evaluation and calibration of climate models, and uncovering latent dynamics in the climate system.</p>
     <p>Before joining UConn in 2024, I was an Assistant Professor at Texas A&amp;M University. I received my PhD in Statistics from the University of Illinois Urbana-Champaign.</p>
   </div>
 </section>
